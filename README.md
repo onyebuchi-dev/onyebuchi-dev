@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Onyebuchi
 
-<!--
-**onyebuchi-dev/onyebuchi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring JavaScript Developer  
+📍 Nigeria  
+🚀 Focused on building real-world web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a dedicated and self-driven developer with a strong passion for JavaScript and web development. I enjoy turning ideas into functional and user-friendly applications.
+
+I am currently improving my skills by building projects, learning modern development practices, and solving coding challenges consistently.
+
+---
+
+## 🛠️ Tech Stack
+
+- JavaScript  
+- HTML5  
+- CSS3  
+- Git & GitHub  
+
+---
+
+## 🚀 Projects
+
+- 📝 To-Do List App  
+- 🧮 Calculator  
+- ❓ Quiz App  
+
+---
+
+## 🎯 Goals
+
+- Grow into a professional developer  
+- Build impactful and scalable applications  
+- Work remotely and gain real-world experience  
+
+---
+
+## 🤝 Contact
+
+📧 your-email-here  
+
+---
+
+⭐ Thanks for visiting my profile!
+
