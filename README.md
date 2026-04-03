@@ -25,9 +25,9 @@ I am currently improving my skills by building projects, learning modern develop
 
 ## 🚀 Projects
 
-- 📝 To-Do List App  
-- 🧮 Calculator  
-- ❓ Quiz App  
+- 📝 [To-Do List App](https://github.com/YOUR_USERNAME/todo-list-app)  
+- 🧮 [Calculator](https://github.com/YOUR_USERNAME/calculator-app)  
+- ❓ [Quiz App](https://github.com/YOUR_USERNAME/quiz-app)  
 
 ---
 
@@ -39,11 +39,16 @@ I am currently improving my skills by building projects, learning modern develop
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onyebuchi-devE&show_icons=true&theme=radical)
+
+---
+
 ## 🤝 Contact
 
-📧 your-email-here  
+📧 ahanonuonyebuchi101@gmail.com  
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
